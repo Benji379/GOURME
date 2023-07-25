@@ -1,0 +1,4 @@
+4	83728271	Maria	Cueva	Pareja	50.0	si	50	
+6	122312332	Juan	Augusto	Familiar	60.0	si	60	
+5	72830213	Martin	Suarez	Pareja	50.0	si	50.0	
+7	72837454	Carlos	Juan	Individual	30.0	no	20.0	
