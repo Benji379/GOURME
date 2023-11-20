@@ -2,15 +2,8 @@ package GOURME;
 
 import clases.metodos;
 
-/**
- *
- * @author LAB-USR-LN6377-A0607
- */
 public class Consultas extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Consultas
-     */
     double reservas = 0;
     double menus = 0;
 
@@ -22,6 +15,7 @@ public class Consultas extends javax.swing.JFrame {
         txtReservas.setText("Reservas: S/." + reservas);
         txtMenus.setText("Menús: S/." + menus);
         txtTotal.setText(String.valueOf(reservas + menus));
+        this.setIconImage(java.awt.Toolkit.getDefaultToolkit().getImage(getClass().getResource("/imagenes/icono.png")));
     }
 
     @SuppressWarnings("unchecked")
@@ -65,9 +59,6 @@ public class Consultas extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">

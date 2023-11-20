@@ -15,7 +15,7 @@ public class reservas extends javax.swing.JFrame {
         mostrador.add(mostrar, BorderLayout.CENTER);
         mostrador.revalidate();
         mostrador.repaint();
-
+        this.setIconImage(java.awt.Toolkit.getDefaultToolkit().getImage(getClass().getResource("/imagenes/icono.png")));
     }
 
     @SuppressWarnings("unchecked")

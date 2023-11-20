@@ -2,7 +2,6 @@ package GOURME;
 
 import clases.descripciones;
 
-
 public class menu extends javax.swing.JFrame {
 
     descripciones rellenar = new descripciones();
@@ -20,6 +19,7 @@ public class menu extends javax.swing.JFrame {
         txtDescripcion.setText(descripciones[0]);
         txtCantidad.setText(String.valueOf(cantidades[0]));
         txtTotal.setText(String.valueOf(inicio.total));
+        this.setIconImage(java.awt.Toolkit.getDefaultToolkit().getImage(getClass().getResource("/imagenes/icono.png")));
     }
 
     @SuppressWarnings("unchecked")

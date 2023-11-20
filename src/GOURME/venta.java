@@ -13,6 +13,7 @@ public class venta extends javax.swing.JFrame {
         initComponents();
         setLocationRelativeTo(null);
         txtTotal.setText(String.valueOf(inicio.total));
+        this.setIconImage(java.awt.Toolkit.getDefaultToolkit().getImage(getClass().getResource("/imagenes/icono.png")));
     }
 
     @SuppressWarnings("unchecked")

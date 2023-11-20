@@ -10,6 +10,7 @@ public class inicio extends javax.swing.JFrame {
         initComponents();
         //este metodo centra el JFrame en lapantala
         setLocationRelativeTo(null);
+        this.setIconImage(java.awt.Toolkit.getDefaultToolkit().getImage(getClass().getResource("/imagenes/icono.png")));
     }
 
     @SuppressWarnings("unchecked")
