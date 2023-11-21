@@ -1,17 +1,15 @@
 # GOURME
 Trabajito de chill
 
-![image](https://github.com/Benji379/GOURME/assets/108637204/66177d4e-23ae-45b7-8e72-085e5e1e7578)
-
-![image](https://github.com/Benji379/GOURME/assets/108637204/24cc083e-1886-4fdb-928c-fd0c5ae0431c)
-
-![image](https://github.com/Benji379/GOURME/assets/108637204/3645fd32-c663-4617-9dff-00e506e20957)
-
-![image](https://github.com/Benji379/GOURME/assets/108637204/d2d3669d-b706-4c23-aaf2-47bf65ed14fa)
-
-![image](https://github.com/Benji379/GOURME/assets/108637204/91c04a3e-9324-408d-af89-0ec06afad76e)
 
 
 
+![Captura de pantalla 2023-11-20 181119](https://github.com/Benji379/GOURME/assets/108637204/af7fbebc-f9da-4c62-b154-f2264ac3bbf6)
 
+![Captura de pantalla 2023-11-20 181152](https://github.com/Benji379/GOURME/assets/108637204/96d926df-fa4d-4780-abd6-fbf6b21ed487)
 
+![Captura de pantalla 2023-11-20 181140](https://github.com/Benji379/GOURME/assets/108637204/520b1541-892e-4492-ad68-f56f1c34b352)
+
+![Captura de pantalla 2023-11-20 181203](https://github.com/Benji379/GOURME/assets/108637204/4e41c6bf-06d1-49eb-a579-38c1b50b4a54)
+
+![Captura de pantalla 2023-11-20 181132](https://github.com/Benji379/GOURME/assets/108637204/f80d6686-c1f4-4546-9610-56ab9df8b462)
